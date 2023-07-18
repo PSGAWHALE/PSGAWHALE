@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Gawhale</h1>
 <h3 align="center">A Passionate Tester</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/code-ko7twHhomhk8E">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psgawhale&label=Profile%20views&color=0e75b6&style=flat" alt="psgawhale" /> </p>
 
